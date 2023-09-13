@@ -12,11 +12,11 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=ValidationUtility"
     alt="GitHub Stats" />
 </a>
-    <ol id="courses">
-  <h2><li style="[ ]"> Course C# OOP</li></h2>
- <ol id="assignments">
+    <ol>
+  <h2> [ ] Course C# OOP</li></h2>
+ <ol>
         <dl>
-    <dt> <li><input disabled="" type="checkbox"> Lab 1 - Mitt första program</li></dt>
+    <dt> [X] Lab 1 - Mitt första program</li></dt>
     <dd>Uppgiften är väldigt enkelt och går i grunden ut på att testa grundläggande programmering i C# och använda Visual Studio. Du som har programmerat tidigare i C# kommer tycka att denna uppgift är väldigt enkel och har du programmerat i något annat språk tidigare kommer du troligen snabbt lista ut hur du löser denna uppgift.<br>
       <br>
       <a href="https://github.com/TobiasSkog/MyFirstProgram">
@@ -25,8 +25,7 @@
           alt="GitHub Stats" />
       </a>
     </dd>
-    <br>
-    <dt>[x] Lab 2 - Schackbräde</dt>
+    <dt> [X] Lab 2 - Schackbräde</dt>
     <dd>Det här är den andra uppgiften i kursen och nu kommer du själv få tänka ut en struktur och ett programflöde som löser uppgiften.<br>
       Du kommer inte behöva använda speciellt avancerade flöden eller datatyper för att lösa uppgiften utan det handlar snarare om att hitta en logisk lösning.<br>
       <br>
@@ -36,8 +35,7 @@
           alt="GitHub Stats" />
       </a>
     </dd>
-    <br>
-    <dt>[x] Lab 3 - Gissa numret</dt>
+    <dt> [X] Lab 3 - Gissa numret</dt>
     <dd>Nu är det dags att bygga ditt första riktiga program som faktiskt kan vara kul att använda - ett enklare spel!<br>
         Det du ska skapa är ett rätt enkelt spel där användaren får gissa ett nummer. <br>
       Användaren kommer få lite ledtrådar och den har ett begränsat antal försök på sig att gissa.<br>
@@ -48,8 +46,7 @@
           alt="GitHub Stats" />
       </a>
     </dd>
-    <br>
-    <dt>[x] Lab 4 - Felsökning</dt>
+    <dt> [X] Lab 4 - Felsökning</dt>
     <dd>Denna uppgift handlar om att felsöka några olika program/kodavsnitt som vi tillhandahåller.<br>
       Du ska hitta vad som är fel i dessa, korrigera felen och förklara vad som var fel i varje case.<br>
       <br>
@@ -58,9 +55,8 @@
           src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=Debugging"
           alt="GitHub Stats" />
       </a>
-    </dd><br>
-    <br>
-    <dt>[x] Lab 5 - Grunderna OOP</dt>
+    </dd>
+    <dt> [X] Lab 5 - Grunderna OOP</dt>
     <dd>Den första uppgiften i OOP är inte särskilt svår, du ska skapa en klass som räknar ut arean på en cirkel. <br>
       <br>
       <a href="https://github.com/TobiasSkog/GrunderOOP">
@@ -69,8 +65,7 @@
           alt="GitHub Stats" />
       </a>
     </dd>
-    <br>
-    <dt>[x] Lab 6 - OOP Arv</dt>
+    <dt> [X] Lab 6 - OOP Arv</dt>
     <dd>I denna uppgift kommer du öva på att använda arv inom objektorientering. <br>
     Uppgiften handlar till stor del om att tänka ut en struktur för arv men också delvis om att implementera den i kod.<br>
       <br>
@@ -79,9 +74,8 @@
           src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=OOPArv"
           alt="GitHub Stats" />
       </a>
-    </dd><br>
-    <br>
-    <dt>[x] Lab 7 - OOP Polymorphism</dt>
+    </dd>
+    <dt> [X] Lab 7 - OOP Polymorphism</dt>
     <dd>I denna uppgift kommer du att öva på att använda polymorfism inom objektorienterad programmering.<br>
     Uppgiften handlar till stor del om att tänka ut en struktur för polymorfism.<br>
       <br>
@@ -91,8 +85,7 @@
           alt="GitHub Stats" />
       </a>
     </dd>
-    <br>
-    <dt>[x] Lab 8 - OOP Generic collections</dt>
+    <dt> [X] Lab 8 - OOP Generic collections</dt>
     <dd>Denna labb handlar om att använda två vanliga generiska typer inom C#. <br>
     Du kommer att skapa en klass och objekt utifrån den klassen som du sedan ska hantera genom Stack och List.<br>
       <br>
@@ -102,8 +95,7 @@
           alt="GitHub Stats" />
       </a>
     </dd>
-    <br>
-    <dt>Lab 9 -Teorihandbok</dt>
+    <dt> [ ] Lab 9 -Teorihandbok</dt>
     <dd>Denna uppgift är rent teoretisk och du ska inte skriva någon kod. <br>
       Uppgiften handlar i stället om att med egna ord beskriva exempelvis vad olika begrepp är. <br>
       I kursplanen finns det flera kunskapsmål som handlar om att du ska ha teoretisk förståelse för flera saker inom kursens område och dessa testas genom denna uppgift. <br>
@@ -117,8 +109,7 @@ Du kan jobba med denna parallellt under hela kursen för att strukturera dina an
           alt="GitHub Stats" />
       </a>      
     </dd>
-    <br>
-    <dt>Lab 10 - Projekt i grupp</dt>
+    <dt> [ ] Lab 10 - Projekt i grupp</dt>
     <dd> Projektet kommer att genomföras i grupp.<br>
     Själva koden kommer ni skapa tillsammans och den kommer användas för att examinera OOP-kursen.<br>
     <br>
