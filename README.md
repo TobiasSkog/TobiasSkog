@@ -1,3 +1,11 @@
+<style>
+/* Unordered list */
+ul {
+  list-style-type: square;
+  /* or list-style: '❤️';  */
+}
+        
+</style>
 <h1>Welcome!</h1>
 <dl>My name is Tobias Skog</dl>
 <dt>Student at <a href="https://edugrade.com/yh-utbildning/it/systemutvecklarenet-med-ai-kompetens/">Edugrade - System
@@ -10,9 +18,11 @@
     alt="GitHub Stats" />
 </a>
 <div>
-  <h2>Course C# OOP</h2>
-  <dl>
-    <dt>Lab 1 - Mitt första program</dt>
+    <ol>
+  <h2><li>Course C# OOP</li></h2>
+ <ol>
+        <dl>
+    <dt> <li><input disabled="" type="checkbox"> Lab 1 - Mitt första program</li></dt>
     <dd>Uppgiften är väldigt enkelt och går i grunden ut på att testa grundläggande programmering i C# och använda Visual Studio. Du som har programmerat tidigare i C# kommer tycka att denna uppgift är väldigt enkel och har du programmerat i något annat språk tidigare kommer du troligen snabbt lista ut hur du löser denna uppgift.<br>
       <br>
       <a href="https://github.com/TobiasSkog/MyFirstProgram">
@@ -22,7 +32,7 @@
       </a>
     </dd>
     <br>
-    <dt>Lab 2 - Schackbräde</dt>
+    <dt>[x] Lab 2 - Schackbräde</dt>
     <dd>Det här är den andra uppgiften i kursen och nu kommer du själv få tänka ut en struktur och ett programflöde som löser uppgiften.<br>
       Du kommer inte behöva använda speciellt avancerade flöden eller datatyper för att lösa uppgiften utan det handlar snarare om att hitta en logisk lösning.<br>
       <br>
@@ -33,7 +43,7 @@
       </a>
     </dd>
     <br>
-    <dt>Lab 3 - Gissa numret</dt>
+    <dt>[x] Lab 3 - Gissa numret</dt>
     <dd>Nu är det dags att bygga ditt första riktiga program som faktiskt kan vara kul att använda - ett enklare spel!<br>
         Det du ska skapa är ett rätt enkelt spel där användaren får gissa ett nummer. <br>
       Användaren kommer få lite ledtrådar och den har ett begränsat antal försök på sig att gissa.<br>
@@ -45,7 +55,7 @@
       </a>
     </dd>
     <br>
-    <dt>Lab 4 - Felsökning</dt>
+    <dt>[x] Lab 4 - Felsökning</dt>
     <dd>Denna uppgift handlar om att felsöka några olika program/kodavsnitt som vi tillhandahåller.<br>
       Du ska hitta vad som är fel i dessa, korrigera felen och förklara vad som var fel i varje case.<br>
       <br>
@@ -56,7 +66,7 @@
       </a>
     </dd><br>
     <br>
-    <dt>Lab 5 - Grunderna OOP</dt>
+    <dt>[x] Lab 5 - Grunderna OOP</dt>
     <dd>Den första uppgiften i OOP är inte särskilt svår, du ska skapa en klass som räknar ut arean på en cirkel. <br>
       <br>
       <a href="https://github.com/TobiasSkog/GrunderOOP">
@@ -66,7 +76,7 @@
       </a>
     </dd>
     <br>
-    <dt>Lab 6 - OOP Arv</dt>
+    <dt>[x] Lab 6 - OOP Arv</dt>
     <dd>I denna uppgift kommer du öva på att använda arv inom objektorientering. <br>
     Uppgiften handlar till stor del om att tänka ut en struktur för arv men också delvis om att implementera den i kod.<br>
       <br>
@@ -77,7 +87,7 @@
       </a>
     </dd><br>
     <br>
-    <dt>Lab 7 - OOP Polymorphism</dt>
+    <dt>[x] Lab 7 - OOP Polymorphism</dt>
     <dd>I denna uppgift kommer du att öva på att använda polymorfism inom objektorienterad programmering.<br>
     Uppgiften handlar till stor del om att tänka ut en struktur för polymorfism.<br>
       <br>
@@ -88,7 +98,7 @@
       </a>
     </dd>
     <br>
-    <dt>Lab 8 - OOP Generic collections</dt>
+    <dt>[x] Lab 8 - OOP Generic collections</dt>
     <dd>Denna labb handlar om att använda två vanliga generiska typer inom C#. <br>
     Du kommer att skapa en klass och objekt utifrån den klassen som du sedan ska hantera genom Stack och List.<br>
       <br>
@@ -124,6 +134,8 @@ Du kan jobba med denna parallellt under hela kursen för att strukturera dina an
       </a>      
     </dd>
     <br>
+    </ol>
+    </ol>
     <p>
     <h2>Statistics</h2>
     <img
