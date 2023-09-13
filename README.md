@@ -6,9 +6,9 @@
   <br>
   <h2>Active pojects</h2>
   <a href="https://github.com/TobiasSkog/ValidationUtility">
-    <img
+    <!--<img
       src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=ValidationUtility"
-      alt="GitHub Stats" />
+      alt="GitHub Stats" /> -->
   </a>
   <ol>
     <h2> [ ] Course C# OOP</li>
@@ -22,10 +22,10 @@
           du programmerat i något annat språk tidigare kommer du troligen snabbt lista ut hur du löser denna
           uppgift.<br>
           <br>
-          <a href="https://github.com/TobiasSkog/MyFirstProgram">
-            <img
+          <a href="https://github.com/TobiasSkog/MyFirstProgram"> Länk till projektet
+            <!--<img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=MyFirstProgram"
-              alt="GitHub Stats" />
+              alt="GitHub Stats" />-->
           </a>
         </dd>
         <dt> [X] Lab 2 - Schackbräde</dt>
@@ -34,10 +34,10 @@
           Du kommer inte behöva använda speciellt avancerade flöden eller datatyper för att lösa uppgiften utan det
           handlar snarare om att hitta en logisk lösning.<br>
           <br>
-          <a href="https://github.com/TobiasSkog/ChessBoard">
-            <img
+          <a href="https://github.com/TobiasSkog/ChessBoard"> Länk till projektet
+            <!--<img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=ChessBoard"
-              alt="GitHub Stats" />
+              alt="GitHub Stats" />-->
           </a>
         </dd>
         <dt> [X] Lab 3 - Gissa numret</dt>
@@ -46,30 +46,30 @@
           Det du ska skapa är ett rätt enkelt spel där användaren får gissa ett nummer. <br>
           Användaren kommer få lite ledtrådar och den har ett begränsat antal försök på sig att gissa.<br>
           <br>
-          <a href="https://github.com/TobiasSkog/NumbersGame">
-            <img
+          <a href="https://github.com/TobiasSkog/NumbersGame"> Länk till projektet
+            <!--<img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=NumbersGame"
-              alt="GitHub Stats" />
+              alt="GitHub Stats" />-->
           </a>
         </dd>
         <dt> [X] Lab 4 - Felsökning</dt>
         <dd>Denna uppgift handlar om att felsöka några olika program/kodavsnitt som vi tillhandahåller.<br>
           Du ska hitta vad som är fel i dessa, korrigera felen och förklara vad som var fel i varje case.<br>
           <br>
-          <a href="https://github.com/TobiasSkog/Debugging">
-            <img
+          <a href="https://github.com/TobiasSkog/Debugging"> Länk till projektet
+            <!--<img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=Debugging"
-              alt="GitHub Stats" />
+              alt="GitHub Stats" />-->
           </a>
         </dd>
         <dt> [X] Lab 5 - Grunderna OOP</dt>
         <dd>Den första uppgiften i OOP är inte särskilt svår, du ska skapa en klass som räknar ut arean på en cirkel.
           <br>
           <br>
-          <a href="https://github.com/TobiasSkog/OOPArv">
-            <img
+          <a href="https://github.com/TobiasSkog/OOPArv"> Länk till projektet
+            <!--<img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=GrunderOOP"
-              alt="GitHub Stats" />
+              alt="GitHub Stats" />-->
           </a>
         </dd>
         <dt> [X] Lab 6 - OOP Arv</dt>
@@ -77,30 +77,30 @@
           Uppgiften handlar till stor del om att tänka ut en struktur för arv men också delvis om att implementera den i
           kod.<br>
           <br>
-          <a href="https://github.com/TobiasSkog/OOPArv">
-            <img
+          <a href="https://github.com/TobiasSkog/OOPArv"> Länk till projektet
+            <!--<img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=OOPArv"
-              alt="GitHub Stats" />
+              alt="GitHub Stats" />-->
           </a>
         </dd>
         <dt> [X] Lab 7 - OOP Polymorphism</dt>
         <dd>I denna uppgift kommer du att öva på att använda polymorfism inom objektorienterad programmering.<br>
           Uppgiften handlar till stor del om att tänka ut en struktur för polymorfism.<br>
           <br>
-          <a href="https://github.com/TobiasSkog/OOPPolymorphism">
-            <img
+          <a href="https://github.com/TobiasSkog/OOPPolymorphism"> Länk till projektet
+            <!--<img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=OOPPolymorphism"
-              alt="GitHub Stats" />
+              alt="GitHub Stats" />-->
           </a>
         </dd>
         <dt> [X] Lab 8 - OOP Generic collections</dt>
         <dd>Denna labb handlar om att använda två vanliga generiska typer inom C#. <br>
           Du kommer att skapa en klass och objekt utifrån den klassen som du sedan ska hantera genom Stack och List.<br>
           <br>
-          <a href="https://github.com/TobiasSkog/OOPGenericCollections">
-            <img
+          <a href="https://github.com/TobiasSkog/OOPGenericCollections"> Länk till projektet
+            <!--<img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=OOPGenericCollections"
-              alt="GitHub Stats" />
+              alt="GitHub Stats" />-->
           </a>
         </dd>
         <dt> [ ] Lab 9 -Teorihandbok</dt>
@@ -113,18 +113,14 @@
           <br>
           Du kan jobba med denna parallellt under hela kursen för att strukturera dina anteckningar.<br>
           <br>
-          <a href=""
-            src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo="
-            alt="GitHub Stats" />
+          <a href=""> Inte inlämnad
           </a>
         </dd>
         <dt> [ ] Lab 10 - Projekt i grupp</dt>
         <dd> Projektet kommer att genomföras i grupp.<br>
           Själva koden kommer ni skapa tillsammans och den kommer användas för att examinera OOP-kursen.<br>
           <br>
-          <a href=""
-            src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo="
-            alt="GitHub Stats" />
+          <a href=""> Inte inlämnad
           </a>
         </dd>
         <br>
