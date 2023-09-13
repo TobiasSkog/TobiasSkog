@@ -1,6 +1,3 @@
-<div style="width: 100%;">
-  <img src="testing" style="width: 100%;" alt="Click to see the source">
-</div>
 
 <div align="left">
 <h1>Welcome!</h1>
