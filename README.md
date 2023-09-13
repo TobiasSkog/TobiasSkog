@@ -77,7 +77,7 @@
           Uppgiften handlar till stor del om att tänka ut en struktur för arv men också delvis om att implementera den i
           kod.<br>
           <br>
-          <a href="[https://github.com/TobiasSkog/ChessBoard](https://github.com/TobiasSkog/OOPArv)">
+          <a href="https://github.com/TobiasSkog/OOPArv">
             <img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=OOPArv"
               alt="GitHub Stats" />
