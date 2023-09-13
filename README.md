@@ -5,11 +5,7 @@
       Developer C# .NET</a></dt>
   <br>
   <h2>Active pojects</h2>
-  <a href="https://github.com/TobiasSkog/ValidationUtility">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=ValidationUtility"
-      alt="GitHub Stats" />
-  </a>
+  <a href="https://github.com/TobiasSkog/ValidationUtility"> Personal Project: Validation Utility Library for .NET 7</a>
   <ol>
     <h2> [ ] Course C# OOP</li>
     </h2>
