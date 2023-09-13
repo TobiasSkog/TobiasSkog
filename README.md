@@ -140,7 +140,6 @@
     alt="Github Stats" />
   </p>
   <h2>Contact Info</h2>
-  <br>
   <address>
     Visit my other pages:<br>
     <a href="https://www.linkedin.com/in/TobiasSkog">LinkedIn</a><br>
