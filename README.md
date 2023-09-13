@@ -66,7 +66,7 @@
         <dd>Den första uppgiften i OOP är inte särskilt svår, du ska skapa en klass som räknar ut arean på en cirkel.
           <br>
           <br>
-          <a href="https://github.com/TobiasSkog/GrunderOOP">
+          <a href="https://github.com/TobiasSkog/OOPArv">
             <img
               src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=GrunderOOP"
               alt="GitHub Stats" />
