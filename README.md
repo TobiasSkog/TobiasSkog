@@ -113,16 +113,14 @@
           <br>
           Du kan jobba med denna parallellt under hela kursen för att strukturera dina anteckningar.<br>
           <br>
-          <a href=""> Inte inlämnad
-          </a>
-        </dd>
+           Inte inlämnad
+                  </dd>
         <dt> [ ] Lab 10 - Projekt i grupp</dt>
         <dd> Projektet kommer att genomföras i grupp.<br>
           Själva koden kommer ni skapa tillsammans och den kommer användas för att examinera OOP-kursen.<br>
           <br>
-          <a href=""> Inte inlämnad
-          </a>
-        </dd>
+         Inte inlämnad
+                 </dd>
         <br>
     </ol>
   </ol>
