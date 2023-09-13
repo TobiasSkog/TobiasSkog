@@ -1,26 +1,23 @@
-<style>
-/* Unordered list */
-ul {
-  list-style-type: square;
-  /* or list-style: '❤️';  */
-}
-        
-</style>
+<div style="width: 100%;">
+  <img src="testing" style="width: 100%;" alt="Click to see the source">
+</div>
+
+<div align="left">
 <h1>Welcome!</h1>
 <dl>My name is Tobias Skog</dl>
 <dt>Student at <a href="https://edugrade.com/yh-utbildning/it/systemutvecklarenet-med-ai-kompetens/">Edugrade - System
     Developer C# .NET</a></dt>
     <br>
+
 <h2>Active pojects</h2>
 <a href="https://github.com/TobiasSkog/ValidationUtility">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=ValidationUtility"
     alt="GitHub Stats" />
 </a>
-<div>
-    <ol>
-  <h2><li>Course C# OOP</li></h2>
- <ol>
+    <ol id="courses">
+  <h2><li style="[ ]"> Course C# OOP</li></h2>
+ <ol id="assignments">
         <dl>
     <dt> <li><input disabled="" type="checkbox"> Lab 1 - Mitt första program</li></dt>
     <dd>Uppgiften är väldigt enkelt och går i grunden ut på att testa grundläggande programmering i C# och använda Visual Studio. Du som har programmerat tidigare i C# kommer tycka att denna uppgift är väldigt enkel och har du programmerat i något annat språk tidigare kommer du troligen snabbt lista ut hur du löser denna uppgift.<br>
