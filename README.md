@@ -6,9 +6,9 @@
   <br>
   <h2>Active pojects</h2>
   <a href="https://github.com/TobiasSkog/ValidationUtility">
-    <!--<img
+    <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasSkog&layout=compact&theme=shadow_red&repo=ValidationUtility"
-      alt="GitHub Stats" /> -->
+      alt="GitHub Stats" />
   </a>
   <ol>
     <h2> [ ] Course C# OOP</li>
