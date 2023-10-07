@@ -5,7 +5,7 @@ My name is Tobias Skog.
 I am a student at [Edugrade - System Developer C# .NET 23](https://edugrade.com/yh-utbildning/it/systemutvecklarenet-med-ai-kompetens/).
 
 ## Active Projects
-
+- [Personal Project: WorldofWarcraft CombatLog.txt Splitter!](https://github.com/TobiasSkog/WoWCombatLogTools)
 - [Personal Project: Validation Utility Library for .NET 7](https://github.com/TobiasSkog/ValidationUtility)
 - [Did test to build the group project on my own to see what it was like to take on a bigger project](https://github.com/TobiasSkog/TestingSomeStuffWthGroupProject)
 
