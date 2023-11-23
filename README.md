@@ -65,8 +65,8 @@ handlar snarare om att hitta en logisk lösning.*
   - [ ] [Teorihandbok – Databaser]()
     - Denna uppgift är rent teoretisk och du ska inte skriva någon kod. Uppgiften handlar i stället om att med egna ord beskriva exempelvis vad olika begrepp innebär. I kursplanen finns det flera kunskapsmål som handlar om att du ska ha teoretisk förståelse för flera saker inom kursens område och dessa kunskapsmål testas genom denna uppgift. Lite som en tenta men utan tidspress och skrivkramp. 😉 Uppgiften heter Teorihandbok eftersom du i framtiden själv kan ha nytta av denna som ett referensmaterial och du kan jobba med den parallellt under hela kursen för att strukturera dina anteckningar.
 
-
   </details>
+  
 ## Statistics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TobiasSkog&layout=compact&show_icons=true&theme=shadow_red)
