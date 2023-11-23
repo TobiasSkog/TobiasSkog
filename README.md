@@ -40,10 +40,10 @@ handlar snarare om att hitta en logisk lösning.*
 - [x] [Lab 8 - OOP Generic collections](https://github.com/TobiasSkog/OOPGenericCollections)
   - *Denna labb handlar om att använda två vanliga generiska typer inom C#. Du kommer att skapa en klass och objekt utifrån den klassen som du sedan ska hantera genom Stack och List.*
 
-- [ ] [Lab 9 -Teorihandbok](https://github.com/TobiasSkog/TheoryHandbook)
+- [x] [Lab 9 -Teorihandbok](https://github.com/TobiasSkog/TheoryHandbook)
   - *Denna uppgift är rent teoretisk och du ska inte skriva någon kod. Uppgiften handlar i stället om att med egna ord beskriva exempelvis vad olika begrepp är. I kursplanen finns det flera kunskapsmål som handlar om att du ska ha teoretisk förståelse för flera saker inom kursens område och dessa testas genom denna uppgift. Lite som en tenta men utan tidspress och skrivkramp. 😉 Uppgiften heter Teorihandbok eftersom du i framtiden kan ha nytta av denna själv som ett referensmaterial. Du kan jobba med denna parallellt under hela kursen för att strukturera dina anteckningar.*
  
- - [ ] [Lab 10 - Projekt i grupp]()
+ - [x] [Lab 10 - Projekt i grupp](https://github.com/Lefuden/NET23-GrupprojektBank)
   - *Projektet kommer att genomföras i grupp. Själva koden kommer ni skapa tillsammans och den kommer användas för att examinera OOP-kursen.*
     
 </details>
