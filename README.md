@@ -12,7 +12,7 @@ I am a student at [Edugrade - System Developer C# .NET 23](https://edugrade.com/
 ## Edugrade Courses
 
 <details>
-<summary>&#9744; Course C# OOP</summary>
+<summary>&#x2611; Course C# OOP</summary>
   
 - [x] [Labb 1 - Mitt första program](https://github.com/TobiasSkog/MyFirstProgram)
   - *Uppgiften är väldigt enkelt och går i grunden ut på att testa grundläggande programmering i C# och använda Visual Studio. Du som har programmerat tidigare i C# kommer tycka att denna uppgift är väldigt enkel och har du programmerat i något annat språk tidigare kommer du troligen snabbt lista ut hur du löser denna uppgift.*    
