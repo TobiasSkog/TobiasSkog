@@ -12,7 +12,7 @@ I am a student at [Edugrade - System Developer C# .NET 23](https://edugrade.com/
 ## Edugrade Courses
 
 <details>
-<summary>&#x2611; Course C# OOP</summary>
+<summary>&#x2611; Course: Objektorienterad programmering med C# och .NET</summary>
   
 - [x] [Labb 1 - Mitt första program](https://github.com/TobiasSkog/MyFirstProgram)
   - *Uppgiften är väldigt enkelt och går i grunden ut på att testa grundläggande programmering i C# och använda Visual Studio. Du som har programmerat tidigare i C# kommer tycka att denna uppgift är väldigt enkel och har du programmerat i något annat språk tidigare kommer du troligen snabbt lista ut hur du löser denna uppgift.*    
@@ -47,7 +47,26 @@ handlar snarare om att hitta en logisk lösning.*
   - *Projektet kommer att genomföras i grupp. Själva koden kommer ni skapa tillsammans och den kommer användas för att examinera OOP-kursen.*
     
 </details>
+<details>
+<summary>&#9744; Course: Programmering av databaser och SQL</summary>
+  
+  - [ ] [Labb 1 – Skapa din första databas]()
+    - Denna uppgift handlar om att du ska skapa din första databas samt skriva några grundläggande SQL-frågor som hämtar data ur databasen.
+  
+  - [ ] [Labb 2 – ER-modellering och SQL]()
+    - Denna uppgift handlar om att du ska skapa en ER-modell för en helt ny databas, skapa den databasen samt skriva några grundläggande SQL-frågor som hämtar data ur databasen.
+  
+  - [ ] [Labb 3 – Anropa databasen (SQL & ORM)]()
+    - Denna labb bygger vidare på labb 2 och du ska alltså jobba vidare med samma databas som du skapade där. **Du får, om du vill, ändra i databasens struktur och design när du gör denna uppgift!**
+  
+  - [ ] [Individuellt databasprojekt]()
+    - Detta är den sista praktiska uppgiften i kursen. Det är en ganska fri uppgift där du ska bevisa att du kan bygga upp mer komplexa system med databaser. Uppgiften bygger vidare på labb 2 och 3.
+ 
+  - [ ] [Teorihandbok – Databaser]()
+    - Denna uppgift är rent teoretisk och du ska inte skriva någon kod. Uppgiften handlar i stället om att med egna ord beskriva exempelvis vad olika begrepp innebär. I kursplanen finns det flera kunskapsmål som handlar om att du ska ha teoretisk förståelse för flera saker inom kursens område och dessa kunskapsmål testas genom denna uppgift. Lite som en tenta men utan tidspress och skrivkramp. 😉 Uppgiften heter Teorihandbok eftersom du i framtiden själv kan ha nytta av denna som ett referensmaterial och du kan jobba med den parallellt under hela kursen för att strukturera dina anteckningar.
 
+
+  </details>
 ## Statistics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TobiasSkog&layout=compact&show_icons=true&theme=shadow_red)
